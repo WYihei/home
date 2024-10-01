@@ -29,7 +29,7 @@ p {
   text-decoration: none;
   color: #fff;
   box-sizing: border-box;
-
+  white-space: pre-wrap; /* 处理换行符和空白字符 */
   &:hover {
     transition: 0.3s;
   }
