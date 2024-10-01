@@ -1,23 +1,19 @@
 [
   {
-    "icon": "Gamepad",
-    "name": "来一把",
-    "link": "qifei.wochaoyuan.fun"
+    "icon": "Compass",
+    "name": "个人介绍",
+    "link": "https://cv.wochaoyuan.fun:81/"
   },
+
   {
     "icon": "Cloud",
-    "name": "还在搞...",
-    "link": "https://lumalabs.ai/interactive-scenes"
+    "name": "网盘",
+    "link": "http://wochaoyuan.fun:15380"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://m.niucodata.com/cat/cat.php"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://www.airpano.org.cn/"
+    "link": "http://tools.liumingye.cn/music/#/"
   },
   {
     "icon": "Book",
@@ -25,13 +21,18 @@
     "link": "https://blog.csdn.net/m0_59600895"
   },
   {
+    "icon": "LaptopCode",
+    "name": "宝塔",
+    "link": "https://wochaoyuan.fun:2335/login"
+  },
+  {
     "icon": "Fire",
     "name": "启动",
     "link": "https://ys.mihoyo.com/cloud/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "看看猫",
-    "link": "https://www.tuftandpaw.com/pages/beautiful-cats-of-instagram-3d#nala"
+    "icon": "Gamepad",
+    "name": "来一把",
+    "link": "https://qifei.wochaoyuan.fun/"
   }
 ]
